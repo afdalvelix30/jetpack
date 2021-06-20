@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_activity_detail">Detail Catalogue</string>
+
+    <string name="tabMovies">MOVIES</string>
+    <string name="tabTvShows">TV SHOWS</string>
+    <string name="detail_movies">Detail Movie</string>
+    <string name="detail_tvShows">Detail Tv Show</string>
+
+    <string name="overview">Overview</string>
+    <string name="play_trailer"><u>Play Trailer</u></string>
+</resources>

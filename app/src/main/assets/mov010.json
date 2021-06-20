@@ -1,0 +1,13 @@
+{
+    "id"        :"mov010",
+    "poster"    :"https://www.themoviedb.org/t/p/original/ltuwOEAJ4rfGVLdC4YYmCYBVcQV.jpg",
+    "title"     :"Spider-Man",
+    "type"      :"PG-13",
+    "genre"     :"Fantasy, Action",
+    "duration"  :"2h 1m",
+    "overview"  :"After being bitten by a genetically altered spider, nerdy high school student Peter Parker is endowed with amazing powers to become the Amazing superhero known as Spider-Man.",
+    "score"     :"72%",
+    "date"      :"May 1, 2002",
+    "year"      :"2002",
+    "trailer"   :"https://youtu.be/O7zvehDxttM"
+}

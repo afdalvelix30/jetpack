@@ -1,0 +1,13 @@
+{
+    "id"        :"mov001",
+    "poster"    :"https://www.themoviedb.org/t/p/original/c0VpT2UiEEwd5vODup31WfXenzb.jpg",
+    "title"     :"Aquaman",
+    "type"      :"PG-13",
+    "genre"     :"Action, Adventure, Fantasy",
+    "duration"  :"2h 13m",
+    "overview"  :"Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.",
+    "score"     :"69%",
+    "date"      :"December 7, 2018",
+    "year"      :"2018",
+    "trailer"   :"https://youtu.be/2wcj6SrX4zw"
+}
